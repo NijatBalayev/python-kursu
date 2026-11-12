@@ -1,3 +1,6 @@
 print("hello kardes")
 print("bu proyekt git oyrenmek ucun yaradilib")
-print("smth updated")
+print("i changed this line")
+print("i added this line")
+print("i added this line also")
+print("i added this line too")
